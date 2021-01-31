@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>tipo_annuncio</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 11:26:55</sys_created_on>
+        <sys_data_policy display_value="Sets the Tipo Annuncio  field to mandatory">3f6143382f8e28108fbcd0e62799b622</sys_data_policy>
+        <sys_id>c07143382f8e28108fbcd0e62799b626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tipo_annuncio</sys_name>
+        <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
+        <sys_update_name>sys_data_policy_rule_c07143382f8e28108fbcd0e62799b626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 11:26:55</sys_updated_on>
+        <table>x_570217_bacheca_1_annuncio</table>
+    </sys_data_policy_rule>
+</record_update>

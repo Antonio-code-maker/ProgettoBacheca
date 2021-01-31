@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Property Data </name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-31 15:41:26</sys_created_on>
+        <sys_id>4cbe46a92f8aa8108fbcd0e62799b694</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Property Data </sys_name>
+        <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
+        <sys_update_name>sys_properties_category_4cbe46a92f8aa8108fbcd0e62799b694</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-31 15:41:26</sys_updated_on>
+        <title><![CDATA[<p>Inserisci le Property dell&#39;applicazione</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=4cbe46a92f8aa8108fbcd0e62799b694"/>
+</record_update>

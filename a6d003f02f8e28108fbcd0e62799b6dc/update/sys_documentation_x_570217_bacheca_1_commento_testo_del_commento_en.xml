@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="testo_del_commento" label="Testo del commento " language="en" table="x_570217_bacheca_1_commento">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>testo_del_commento</element>
+            <help/>
+            <hint/>
+            <label>Testo del commento </label>
+            <language>en</language>
+            <name>x_570217_bacheca_1_commento</name>
+            <plural>Testo del commento s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-29 11:35:03</sys_created_on>
+            <sys_id>7e4307782f8e28108fbcd0e62799b647</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testo del commento</sys_name>
+            <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
+            <sys_update_name>sys_documentation_x_570217_bacheca_1_commento_testo_del_commento_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-29 11:35:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

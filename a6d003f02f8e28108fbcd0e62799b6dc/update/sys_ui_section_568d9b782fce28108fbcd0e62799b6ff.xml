@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Proposta per miglioramento lavoro" section_id="568d9b782fce28108fbcd0e62799b6ff" sys_domain="global" table="x_570217_bacheca_1_annuncio" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tipologia_di_proposta</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>5947ee692fcaa8108fbcd0e62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>altra_proposta</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>d947ee692fcaa8108fbcd0e62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_3</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>5d47ee692fcaa8108fbcd0e62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>dd47ee692fcaa8108fbcd0e62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stato_della_proposta</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>5147ee692fcaa8108fbcd0e62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>utente_promotore</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>d147ee692fcaa8108fbcd0e62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_lavoro</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-31 17:28:02</sys_created_on>
+            <sys_id>5547ee692fcaa8108fbcd0e62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Proposta per miglioramento lavoro" display_value="Proposta per miglioramento lavoro" name="x_570217_bacheca_1_annuncio" sys_domain="global" view="Default view">568d9b782fce28108fbcd0e62799b6ff</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 17:28:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Proposta per miglioramento lavoro</caption>
+            <header>false</header>
+            <name>x_570217_bacheca_1_annuncio</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-29 13:29:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>568d9b782fce28108fbcd0e62799b6ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_570217_bacheca_1_annuncio</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
+            <sys_update_name>sys_ui_section_568d9b782fce28108fbcd0e62799b6ff</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-29 13:29:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Utente " max_length="40" name="x_570217_bacheca_1_utente" sizeclass="1" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Codice Fiscale " max_length="40" name="codice_fiscale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cognome" max_length="40" name="cognome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data di nascita" max_length="40" name="data_di_nascita" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Mail" max_length="40" name="mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

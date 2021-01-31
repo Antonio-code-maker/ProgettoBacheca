@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_boolean_2" label="Annullamento evento" language="en" table="x_570217_bacheca_1_annuncio">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_boolean_2</element>
+            <help/>
+            <hint/>
+            <label>Annullamento evento</label>
+            <language>en</language>
+            <name>x_570217_bacheca_1_annuncio</name>
+            <plural>Annullamento eventos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-29 12:53:48</sys_created_on>
+            <sys_id>e455db342fce28108fbcd0e62799b659</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Annullamento evento</sys_name>
+            <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
+            <sys_update_name>sys_documentation_x_570217_bacheca_1_annuncio_u_boolean_2_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-31 09:25:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
