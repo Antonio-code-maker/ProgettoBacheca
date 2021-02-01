@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>b51db1ed2f4aa8108fbcd0e62799b666</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3436b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>testo</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>391db1ed2f4aa8108fbcd0e62799b666</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>b436b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>b91db1ed2f4aa8108fbcd0e62799b666</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3836b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>stelle</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>3d1db1ed2f4aa8108fbcd0e62799b666</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>b836b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>id_annuncio</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>bd1db1ed2f4aa8108fbcd0e62799b666</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3c36b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>id_utente_review</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>311db1ed2f4aa8108fbcd0e62799b667</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>bc36b53d2fc2e8108fbcd0e62799b6de</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,55 +88,83 @@
             <element>mail_review</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>b11db1ed2f4aa8108fbcd0e62799b667</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3036b53d2fc2e8108fbcd0e62799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nome_review</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>b036b53d2fc2e8108fbcd0e62799b6df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cognome_review</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3436b53d2fc2e8108fbcd0e62799b6df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>351db1ed2f4aa8108fbcd0e62799b667</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>b436b53d2fc2e8108fbcd0e62799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>titolo</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>b51db1ed2f4aa8108fbcd0e62799b667</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>3836b53d2fc2e8108fbcd0e62799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>data_review</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:23:46</sys_created_on>
-            <sys_id>391db1ed2f4aa8108fbcd0e62799b667</sys_id>
+            <sys_created_on>2021-02-01 08:32:08</sys_created_on>
+            <sys_id>b836b53d2fc2e8108fbcd0e62799b6df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_review" sys_domain="global" view="Default view">f988859d2f4e68108fbcd0e62799b6c2</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:23:46</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

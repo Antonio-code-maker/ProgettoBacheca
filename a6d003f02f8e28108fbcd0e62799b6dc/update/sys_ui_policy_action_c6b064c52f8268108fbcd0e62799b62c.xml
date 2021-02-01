@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
     <sys_ui_policy_action action="INSERT_OR_UPDATE">
-        <cleared>true</cleared>
+        <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field>altra_quota</field>
         <mandatory>true</mandatory>
@@ -8,14 +8,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-29 18:23:24</sys_created_on>
         <sys_id>c6b064c52f8268108fbcd0e62799b62c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>altra_quota</sys_name>
         <sys_package display_value="Bacheca 1" source="x_570217_bacheca_1">a6d003f02f8e28108fbcd0e62799b6dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="Bacheca 1">a6d003f02f8e28108fbcd0e62799b6dc</sys_scope>
         <sys_update_name>sys_ui_policy_action_c6b064c52f8268108fbcd0e62799b62c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-29 18:23:24</sys_updated_on>
+        <sys_updated_on>2021-02-01 08:14:06</sys_updated_on>
         <table>x_570217_bacheca_1_annuncio</table>
         <ui_policy display_value="4c Richiesta quota">2030ec852f8268108fbcd0e62799b658</ui_policy>
         <visible>true</visible>

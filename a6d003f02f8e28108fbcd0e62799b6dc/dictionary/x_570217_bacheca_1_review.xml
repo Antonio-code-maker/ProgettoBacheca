@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Review" max_length="40" name="x_570217_bacheca_1_review" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cognome" max_length="40" name="cognome_review" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Data Review" max_length="40" name="data_review" type="glide_date"/>
         <element attributes="encode_utf8=false" label="ID annuncio" max_length="32" name="id_annuncio" reference="x_570217_bacheca_1_annuncio" type="reference"/>
         <element attributes="encode_utf8=false" label="ID utente review" max_length="32" name="id_utente_review" reference="x_570217_bacheca_1_utente" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Mail review" max_length="40" name="mail_review" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome_review" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="Stelle " max_length="40" name="stelle" type="choice">
-            <choice/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="1 stella" label="Stelle " max_length="40" name="stelle" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 Stella" sequence="0" value="1 stella"/>
+                <element inactive_on_update="false" label="2 Stelle" sequence="1" value="2 stelle"/>
+                <element inactive_on_update="false" label="3 Stelle" sequence="2" value="3 stelle"/>
+                <element inactive_on_update="false" label="4 Stelle" sequence="3" value="4 stelle"/>
+                <element inactive_on_update="false" label="5 Stelle" sequence="4" value="5 stelle"/>
+            </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Testo " max_length="1000" name="testo" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Titolo " max_length="40" name="titolo" type="string"/>

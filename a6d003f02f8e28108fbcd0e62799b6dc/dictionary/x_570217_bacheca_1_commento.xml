@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Commento " max_length="40" name="x_570217_bacheca_1_commento" sizeclass="0" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cognome" max_length="40" name="cognome_commento" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Data Annuncio Commento" max_length="40" name="data_annuncio_commento" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Data commento" max_length="40" name="data_commento" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Mail utente" max_length="40" name="mail_utente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome_commento" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Testo del commento " max_length="1000" name="testo_del_commento" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Titolo del commento " max_length="40" name="titolo_del_commento" type="string"/>

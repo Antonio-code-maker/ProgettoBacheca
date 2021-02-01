@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>ecd7f9e92f4aa8108fbcd0e62799b6fd</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>f226b53d2fc2e8108fbcd0e62799b62e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>utente</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>60d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>ba26b53d2fc2e8108fbcd0e62799b62e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>mail_utente</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>e0d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>3e26b53d2fc2e8108fbcd0e62799b62e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_reference_1</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>64d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>be26b53d2fc2e8108fbcd0e62799b62e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>e4d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>3226b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>titolo_del_commento</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>68d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>b226b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>data_commento</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>e8d7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>3626b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>data_annuncio_commento</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>6cd7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>b626b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>ecd7f9e92f4aa8108fbcd0e62799b6fe</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>3a26b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -130,13 +130,41 @@
             <element>testo_del_commento</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-01-31 14:00:44</sys_created_on>
-            <sys_id>60d7f9e92f4aa8108fbcd0e62799b6ff</sys_id>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>ba26b53d2fc2e8108fbcd0e62799b62f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-01-31 14:00:44</sys_updated_on>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nome_commento</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>3e26b53d2fc2e8108fbcd0e62799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cognome_commento</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-01 08:32:00</sys_created_on>
+            <sys_id>be26b53d2fc2e8108fbcd0e62799b62f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_570217_bacheca_1_commento" sys_domain="global" view="Default view">7c78095d2f4e68108fbcd0e62799b6d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-01 08:32:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
